@@ -1,10 +1,4 @@
-/*
- * Name: Josh Yoon
- * Student ID: 040 939 635
- * Course & Section: CST8132 304
- * Assignment: Lab 1
- * Date: Jan 20, 2019
- */
+
 package Lab01;
 
 public class CST8132_Yoon_Josh_Lab1 {
