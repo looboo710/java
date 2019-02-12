@@ -1,10 +1,4 @@
-/*
- * Name: Josh Yoon
- * Student ID: 040 939 635
- * Course & Section: CST8132 304
- * Assignment: Lab 3
- * Date: Jan 27, 2019
- */
+
 package Lab03;
 
 import java.util.Scanner;
